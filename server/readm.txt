@@ -1,0 +1,15 @@
+rodar no terminal pasta server
+npm run dev
+
+para abrir prisma
+npx prisma studio
+
+
+
+na pasta web em outro terminal 
+npm run dev
+
+
+na pasta mobile em outro terminal
+expo start
+opção a
